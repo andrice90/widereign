@@ -1,0 +1,10 @@
+* text=auto
+# Windows scripts must keep CRLF or cmd.exe / PowerShell 5.1 misread them after a clone on another OS
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+*.ini text eol=crlf
+*.txt text eol=crlf
+*.dll binary
+*.exe binary
+

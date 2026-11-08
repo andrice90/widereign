@@ -1,0 +1,21 @@
+WideReign - Co-op, 21x9, >60fps for ELDEN RING NIGHTREIGN
+========================================================
+
+1. Unzip the whole widereign-mod folder anywhere (Desktop is fine).
+2. Double-click Install.bat.
+3. If it asks to open your web browser, press Enter. On the Nexus Mods page:
+   Files tab > Main file > Manual Download (a free Nexus account is needed).
+   Leave the zip in your Downloads folder; the installer picks it up by itself.
+4. Done: use the desktop shortcuts.
+     WideReign (coop) - play with the group (Seamless Co-op)
+     WideReign (solo) - play alone, offline
+   Starting the game from Steam as usual is unchanged (official online, no mods).
+
+In game: F7 = wider field of view, F8 = narrower (steps of 5, remembered next time).
+
+Everyone in the group must have the same Seamless Co-op version (the installer tells you which).
+Seamless Co-op uses its own save file; your normal save is not touched.
+If the screen still has black bars: Graphics > switch window mode once.
+Uninstall: double-click Uninstall.bat in the widereign-mod folder (or %LOCALAPPDATA%\nrwide\Uninstall.bat)
+
+More detail: data\README.txt

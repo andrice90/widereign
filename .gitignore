@@ -1,0 +1,11 @@
+# build output (attach dist\widereign-mod.zip to a GitHub Release instead)
+bin/
+obj/
+dist/
+*.log
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+
